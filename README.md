@@ -17,4 +17,4 @@ Example files from the protocol mentioned in the introduction can be found in th
 ```
 perl ligate.pl 4_2H-AE_merged.pdb > 5_2H-AE_ligated.pdb
 ```
-The file "5_2H-AE_ligated.pdb" should now be created by the script, and contain the ligated structure.
+The script should create the file "5_2H-AE_ligated.pdb", which contain the ligated structure.
